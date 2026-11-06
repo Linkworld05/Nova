@@ -1,0 +1,8 @@
+{
+  "_readme": "Optional commands. Review every command before enabling it. Copy to pc-actions.json locally; never commit personal commands.",
+  "open downloads folder": {
+    "command": "explorer \"%USERPROFILE%\\Downloads\"",
+    "reply": "Opening Downloads.",
+    "enabled": false
+  }
+}

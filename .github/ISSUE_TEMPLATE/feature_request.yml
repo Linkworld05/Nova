@@ -1,0 +1,22 @@
+name: Feature request
+description: Propose an improvement with observable acceptance criteria.
+title: "[Feature]: "
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: Problem or use case
+      description: Explain the goal without private documents or conversation transcripts.
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed behavior and acceptance criteria
+      description: How could a contributor test that the improvement works?
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives and limitations

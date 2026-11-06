@@ -1,0 +1,4 @@
+# Advanced optional runtime, retains its own MIT license. CPU builds are selected
+# by this extra index. This preserves the original runtime's tested constraints.
+--extra-index-url https://download.pytorch.org/whl/cpu
+./vendor/nova-melo-runtime

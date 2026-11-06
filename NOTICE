@@ -1,0 +1,14 @@
+Nova Local Assistant
+Copyright (C) 2026 Nova contributors
+
+Except for separately identified third-party components, Nova's code,
+documentation and original artwork are licensed under the GNU Affero General
+Public License, version 3 or (at your option) any later version.
+SPDX-License-Identifier: AGPL-3.0-or-later
+
+This program is distributed WITHOUT ANY WARRANTY, including the implied
+warranties of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+See LICENSE for the full terms and THIRD_PARTY_NOTICES.md for exceptions.
+
+This source distribution includes no conversation databases, user settings,
+credentials, recordings, imported manuals or model weights.
